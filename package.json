@@ -21,6 +21,7 @@
   "homepage": "https://github.com/theahmadsharif/socket#readme",
   "dependencies": {
     "express": "^4.14.0",
+    "http": "0.0.0",
     "socket.io": "^1.4.8"
   }
 }
